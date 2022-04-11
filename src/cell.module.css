@@ -1,0 +1,229 @@
+.inputPlan {
+  position: relative;
+  height: 30px;
+  width: 180px;
+  border: none;
+  color: black;
+  border-radius: 2rem;
+  top: 32px;
+}
+
+.addButtonPol {
+  position: relative;
+  margin-top: 0;
+  height: 80px;
+  width: 200px;
+  background-color: rgb(235, 81, 176);
+  color: white;
+  border-radius: 1rem;
+  border: 1px solid black;
+  font-size: 16px;
+  box-shadow: 2px 5px 5px #333;
+}
+
+.addButtonNull {
+  position: relative;
+  margin-top: 0;
+  height: 80px;
+  width: 200px;
+  background-color: rgb(255, 255, 255);
+  color: white;
+  border-radius: 1rem;
+  border: 1px solid black;
+  font-size: 16px;
+  box-shadow: 2px 5px 5px #333;
+}
+
+.addButtonChem {
+  position: relative;
+  margin-top: 0;
+  height: 80px;
+  width: 200px;
+  background-color: rgb(221, 32, 73);
+  color: white;
+  border-radius: 1rem;
+  border: 1px solid black;
+  font-size: 16px;
+  box-shadow: 2px 5px 5px #333;
+}
+
+.addButtonMat {
+  position: relative;
+  margin-top: 0;
+  height: 80px;
+  width: 200px;
+  background-color: rgb(153, 34, 19);
+  color: white;
+  border-radius: 1rem;
+  border: 1px solid black;
+  font-size: 16px;
+  box-shadow: 2px 5px 5px #333;
+}
+
+.addButtonGeog {
+  position: relative;
+  margin-top: 0;
+  height: 80px;
+  width: 200px;
+  background-color: rgb(54, 190, 73);
+  color: white;
+  border-radius: 1rem;
+  border: 1px solid black;
+  font-size: 16px;
+  box-shadow: 2px 5px 5px #333;
+}
+
+.addButtonNiem {
+  position: relative;
+  margin-top: 0;
+  height: 80px;
+  width: 200px;
+  background-color: rgb(14, 112, 116);
+  color: white;
+  border-radius: 1rem;
+  border: 1px solid black;
+  font-size: 16px;
+  box-shadow: 2px 5px 5px #333;
+}
+
+.addButtonFiz {
+  position: relative;
+  margin-top: 0;
+  height: 80px;
+  width: 200px;
+  background-color: rgb(196, 95, 0);
+  color: white;
+  border-radius: 1rem;
+  border: 1px solid black;
+  font-size: 16px;
+  box-shadow: 2px 5px 5px #333;
+}
+
+.addButtonMuz {
+  position: relative;
+  margin-top: 0;
+  height: 80px;
+  width: 200px;
+  background-color: rgb(12, 171, 199);
+  color: white;
+  border-radius: 1rem;
+  border: 1px solid black;
+  font-size: 16px;
+  box-shadow: 2px 5px 5px #333;
+}
+
+.addButtonWos {
+  position: relative;
+  margin-top: 0;
+  height: 80px;
+  width: 200px;
+  background-color: rgb(12, 13, 109);
+  color: white;
+  border-radius: 1rem;
+  border: 1px solid black;
+  font-size: 16px;
+  box-shadow: 2px 5px 5px #333;
+}
+
+.addButtonInfo {
+  position: relative;
+  margin-top: 0;
+  height: 80px;
+  width: 200px;
+  background-color: rgb(103, 70, 223);
+  color: white;
+  border-radius: 1rem;
+  border: 1px solid black;
+  font-size: 16px;
+  box-shadow: 2px 5px 5px #333;
+}
+
+.addButtonPlast {
+  position: relative;
+  margin-top: 0;
+  height: 80px;
+  width: 200px;
+  background-color: rgb(24, 56, 35);
+  color: white;
+  border-radius: 1rem;
+  border: 1px solid black;
+  font-size: 16px;
+  box-shadow: 2px 5px 5px #333;
+}
+
+.addButtonAng {
+  position: relative;
+  margin-top: 0;
+  height: 80px;
+  width: 200px;
+  background-color: rgb(22, 153, 170);
+  color: white;
+  border-radius: 1rem;
+  border: 1px solid black;
+  font-size: 16px;
+  box-shadow: 2px 5px 5px #333;
+}
+
+.addButtonWf {
+  position: relative;
+  margin-top: 0;
+  height: 80px;
+  width: 200px;
+  background-color: rgb(170, 22, 71);
+  color: white;
+  border-radius: 1rem;
+  border: 1px solid black;
+  font-size: 16px;
+  box-shadow: 2px 5px 5px #333;
+}
+
+.addButtonHis {
+  position: relative;
+  margin-top: 0;
+  height: 80px;
+  width: 200px;
+  background-color: rgb(51, 28, 114);
+  color: white;
+  border-radius: 1rem;
+  border: 1px solid black;
+  font-size: 16px;
+  box-shadow: 2px 5px 5px #333;
+}
+
+.addButtonRelig {
+  position: relative;
+  margin-top: 0;
+  height: 80px;
+  width: 200px;
+  background-color: rgb(80, 199, 0);
+  color: white;
+  border-radius: 1rem;
+  border: 1px solid black;
+  font-size: 16px;
+  box-shadow: 2px 5px 5px #333;
+}
+
+.addButtonBiol {
+  position: relative;
+  margin-top: 0;
+  height: 80px;
+  width: 200px;
+  background-color: rgb(206, 177, 12);
+  color: white;
+  border-radius: 1rem;
+  border: 1px solid black;
+  font-size: 16px;
+  box-shadow: 2px 5px 5px #333;
+}
+
+.addButton {
+  position: relative;
+  margin-top: 0px;
+  height: 80px;
+  width: 200px;
+  color: rgb(7, 7, 7);
+  border-radius: 1rem;
+  border: 1px solid black;
+  font-size: 16px;
+  box-shadow: 2px 5px 5px #333;
+}
